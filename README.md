@@ -4,6 +4,10 @@ This project demonstrates how to predict stock prices of Indian companies listed
 
 ---
 
+## 🚀 Live Demo
+
+🔗 [Click here to try the live app](https://stock-price-predication.streamlit.app/)
+
 ## 🚀 Features
 
 - ✅ User can input company name (e.g., TCS, Reliance, HDFC).
@@ -24,16 +28,14 @@ Stock-Price-Prediction-using-Linear-Regression/
 ├── requirements.txt # Python dependencies
 └── README.md # Project description
 
-yaml
-Copy
-Edit
+
 
 ---
 
 ## 🛠️ How to Run
 
 ### ✅ 1. Clone the Repository
-```bash
+
 git clone https://github.com/urvish2930/Stock-Price-Predication-using-Linear-Regression.git
 cd Stock-Price-Predication-using-Linear-Regression
 
